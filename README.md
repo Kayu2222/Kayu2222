@@ -31,7 +31,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [goal-tracker](https://github.com/Kayu2222/goal-tracker) | Personal productivity tracker | HTML |
-| [quiz-loader](https://github.com/Kayu2222/cloudSecurityQuiz) | Quiz tool for cloud security concepts | HTML |
+| [quiz-loader](https://github.com/Kayu2222/cloudSecurityQuiz) | Quiz tool for replaceable script | HTML |
 | [book-rental-system](https://github.com/Kayu2222/book-rental-system) | Book rental management system | Python |
 | [clinic-management-system](https://github.com/Kayu2222/Clinic-Management-System) | Clinic Management System | Java |
 
